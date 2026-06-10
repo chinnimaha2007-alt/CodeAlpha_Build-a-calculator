@@ -16,11 +16,11 @@ A simple calculator built using HTML, CSS, and JavaScript.
 
 ## 📸 Preview
 
-### Calculator 1
-![Calculator 1](cal 1.png)
+### Calculator UI 1
+![Calculator 1](cal2.png)
 
-### Calculator 2
-![Calculator 2](cal 2.png)
+### Calculator UI 2
+![Calculator 2](cal1.png)
 
 
 ## 📌 How to Use
@@ -28,5 +28,5 @@ A simple calculator built using HTML, CSS, and JavaScript.
 2. Click buttons or use keyboard
 3. Perform calculations easily
 
-## 👨‍💻 Author
+## 👩🏻‍💻 Author
 V.V.K. Mahalakshmi
